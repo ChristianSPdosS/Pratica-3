@@ -4,16 +4,16 @@
       {
         "id": "886c4d3c-83a0-40a9-b984-addd711f18f7",
         "line": 14,
-        "version": 228,
-        "index": 221
+        "version": 248,
+        "index": 212
       }
     ],
     "questao3.c": [
       {
         "id": "a1665e47-e77a-4bc8-9553-fdfc08e8c584",
-        "line": 22,
-        "version": 356,
-        "index": 339
+        "line": 28,
+        "version": 391,
+        "index": 368
       }
     ]
   }
